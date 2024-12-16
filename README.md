@@ -1,5 +1,5 @@
 <header>
-
+![empty](https://github.com/user-attachments/assets/516b7e58-20d0-4478-84c9-ecc6f5ce3e8e)
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
